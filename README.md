@@ -6,7 +6,7 @@ Passionate software engineer who likes to explore all the new technologies that 
 - 🌱 I’m currently learning the magic of Vue and React, while deciding if I hate or Love Typescript and perfectioning my Javascript skill
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+<a https://github-readme-stats.vercel.app/api/top-langs/?username={Fora00}&theme=blue-green />
 
 ## Worked on and plan to expand knowledge in
 <p>
