@@ -40,6 +40,6 @@ Passionate software engineer who likes to explore all the new technologies that 
   
   <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Fora00&count_private=true&theme=radical&show_icons=true" />
-![Fora00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fora00&show_icons=true&theme=radical)
+[Fora00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fora00&show_icons=true&theme=radical)
 
 </p>
