@@ -7,6 +7,9 @@ Passionate software engineer who likes to explore all the new technologies that 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Fora00&count_private=true&theme=radical&show_icons=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fora00&layout=compact"
+/>
 
 ## Worked on and plan to expand knowledge in
 <p>
