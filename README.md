@@ -5,12 +5,13 @@ Passionate software engineer who likes to explore all the new technologies that 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning the magic of Vue and React, while deciding if I hate or Love Typescript and perfectioning my Javascript skill
 
-
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=Fora00&count_private=true&theme=radical&show_icons=true" />
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fora00&layout=compact"
 />
-
+</p>
+  
 ## Worked on and plan to expand knowledge in
 <p>
    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
