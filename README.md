@@ -5,6 +5,9 @@ Passionate software engineer who likes to explore all the new technologies that 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning the magic of Vue and React, while deciding if I hate or Love Typescript and perfectioning my Javascript skill
 
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
 ## Worked on and plan to expand knowledge in
 <p>
    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
@@ -27,7 +30,8 @@ Passionate software engineer who likes to explore all the new technologies that 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
 </p>
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/francesco-elia-foradori/">
+## 📫 How to reach me:
+<a href="https://www.linkedin.com/in/francesco-elia-foradori/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
