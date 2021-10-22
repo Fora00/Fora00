@@ -2,10 +2,7 @@ Hi, I'm Francesco Elia Foradori !
 
 Passionate software engineer who likes to explore all the new technologies that spike my interest 
 
-- 🔭 I’m currently working on <a href="https://www.linkedin.com/in/francesco-elia-foradori/">
-  <a href="https://github.com/Fora00/transl8r"
-    alt="Transl8r"
-  />
+- 🔭 I’m currently working on  <a href="https://github.com/Fora00/transl8r" alt="Transl8r"/>
 - 🌱 I’m currently learning the magic of Vue and React, while deciding if I hate or Love Typescript and perfectioning my Javascript skill
 
 
