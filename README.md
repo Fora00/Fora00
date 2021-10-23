@@ -34,7 +34,9 @@ Passionate software engineer who likes to explore all the new technologies that 
 
 ## Some stats
 <p>
+
 [![Fora00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fora00)](https://github.com/Fora00/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fora00&layout=compact)](https://github.com/Fora00/github-readme-stats)
+
 </p>
