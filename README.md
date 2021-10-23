@@ -9,36 +9,32 @@ Passionate software engineer who likes to explore all the new technologies that 
   
 ## Worked on and plan to expand knowledge in
 <p>
-  <img alt="React" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
  </p>
  <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </p>
   <p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
- <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+ <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </p>
  <p>
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
+  <img alt="PostgreSQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ## 📫 How to reach me:
-<a href="https://www.linkedin.com/in/francesco-elia-foradori/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"/>
-  
+<a href="https://www.linkedin.com/in/francesco-elia-foradori/"> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
 <a href="francesco.elia.foradori@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />       
  
 
 ## Some stats
-  
+<p>
 [![Fora00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fora00)](https://github.com/Fora00/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fora00&layout=compact)](https://github.com/Fora00/github-readme-stats)
+</p>
