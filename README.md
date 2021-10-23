@@ -32,12 +32,9 @@ Passionate software engineer who likes to explore all the new technologies that 
 <a href="https://www.linkedin.com/in/francesco-elia-foradori/">
   <img
     alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-       align="center" />
-  a/>
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"/>
   
-<a href="francesco.elia.foradori@gmail.com" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />       align="center"
-  a/>
+<a href="francesco.elia.foradori@gmail.com" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />       
  
 
 ## Some stats
