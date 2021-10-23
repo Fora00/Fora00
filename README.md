@@ -9,8 +9,7 @@ Passionate software engineer who likes to explore all the new technologies that 
   
 ## Worked on and plan to expand knowledge in
 <p>
-  <img alt="React" src=" https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08
-" />
+  <img alt="React" src=" https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat" />
  </p>
  <p>
@@ -34,9 +33,11 @@ Passionate software engineer who likes to explore all the new technologies that 
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-  />
+       align="center" />
+  a/>
   
-<a href="francesco.elia.foradori@gmail.com" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="francesco.elia.foradori@gmail.com" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />       align="center"
+  a/>
  
 
 ## Some stats
