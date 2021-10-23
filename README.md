@@ -1,4 +1,4 @@
-Hi, I'm Francesco Elia Foradori !
+## Hi, I'm Francesco Elia Foradori ! 
 
 Passionate software engineer who likes to explore all the new technologies that spike my interest 
 
