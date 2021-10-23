@@ -9,6 +9,7 @@ Passionate software engineer who likes to explore all the new technologies that 
   
 ## Worked on and plan to expand knowledge in
 <p>
+  <img alt=Vue src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
  </p>
