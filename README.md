@@ -3,7 +3,7 @@
 Passionate software engineer who likes to explore all the new technologies that spike my interest 
 
 - 🔭 I’m currently working on  [transl8r](https://github.com/Fora00/transl8r) and [TournamentsBG](https://github.com/Fora00/TournamentsBG)
-- 🌱 I’m currently learning the magic of Vue and React, while deciding if I hate or Love Typescript and perfectioning my Javascript skill and thinking about some side projects
+- 🌱 I’m currently sharpening my skills with Vue and React, while working on my Typescript and Javascript skill and some side projects in the meantime
 - 🧗‍♀️ When I'm not coding you can find me climbing indoor/outdoor or writing review/preview for Board-games that I like while I procastinate the design of mine...
   
 ## Worked on and plan to expand knowledge in
