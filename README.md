@@ -1,6 +1,6 @@
 ## Hi, I'm Francesco Elia Foradori ! 
 
-Passionate software engineer who likes to explore all the new technologies that spike my interest 
+Passionate software engineer who likes to explore new technologies that spark my interest 
 
 - 🔭 I’m currently working on  [transl8r](https://github.com/Fora00/transl8r) and [TournamentsBG](https://github.com/Fora00/TournamentsBG)
 - 🌱 I’m currently sharpening my skills with Vue and React, while working on my Typescript and Javascript skill and some side projects in the meantime
